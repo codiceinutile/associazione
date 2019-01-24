@@ -2,7 +2,7 @@
 
 ## Art. 1 - Denominazione e sede
 
-È costituita, nel rispetto del Codice Civile, della Legge 383/2000 e della normativa in materia l'associazione di promozione sociale denominata **Codice Inutile** con sede in **Via Catania 12A** nel comune di *Verona* di seguito detta più semplicemente Associazione.
+È costituita, nel rispetto del Codice Civile, della Legge 383/2000 e della normativa in materia l'associazione di promozione sociale denominata **Codice Inutile** con sede in **Via Laghetto Squarà 8B** nel comune di *Verona* di seguito detta più semplicemente Associazione.
 
 Il trasferimento della sede legale non comporta modifica statutaria ma l'obbligo di comunicazione agli uffici competenti.
 
@@ -44,7 +44,7 @@ L'Associazione può svolgere attività diverse da quelle indicate dal presente a
 ## Art. 4 - Entità e amministrazione del patrimonio
 
 Il patrimonio potrà essere costituito ed incrementato dai beni mobili ed immobili che perverranno all'Associazione a qualsiasi titolo, nonché da donazioni, eredità e legati espressamente destinati all'incremento del patrimonio medesimo; le accettazioni di donazioni ed eredità dovranno essere deliberate e/o approvate con beneficio d’inventario.
-Il patrimonio deve essere amministrato osservando criteri prudenziali di rischio, in modo da conservarne il valore e ottenere una redditività adeguata. 
+Il patrimonio deve essere amministrato osservando criteri prudenziali di rischio, in modo da conservarne il valore e ottenere una redditività adeguata.
 
 Per le obbligazioni assunte dalle persone che rappresentano l'Associazione risponde la stessa col suo patrimonio ed in via sussidiaria coloro che hanno agito in nome e per conto dell'Associazione medesima.
 
@@ -52,15 +52,15 @@ Per le obbligazioni assunte dalle persone che rappresentano l'Associazione rispo
 
 Per il perseguimento delle finalità istituzionali, l'Associazione dispone delle seguenti entrate:
 
-* quote e contributi degli associati; 
-* eredità, donazioni e legati; 
-* contributi dello Stato, delle regioni, di enti locali, di enti o di istituzioni pubblici, anche finalizzati al sostegno di specifici e documentati programmi realizzati nell'ambito dei fini statutari; 
-* contributi dell'Unione Europea e di organismi internazionali; 
-* entrate derivanti da prestazioni di servizi convenzionati; 
-* proventi delle cessioni di beni e servizi agli associati e a terzi, anche attraverso lo svolgimento di attività economiche di natura commerciale, artigianale o agricola, svolte in maniera ausiliaria e sussidiaria e comunque finalizzate al raggiungimento degli obiettivi istituzionali; 
-* erogazioni liberali degli associati e dei terzi; 
-* entrate derivanti da iniziative promozionali finalizzate al proprio finanziamento, quali feste e sottoscrizioni anche a premi; 
-* altre entrate compatibili con le finalità sociali dell'associazionismo di promozione sociale. 
+* quote e contributi degli associati;
+* eredità, donazioni e legati;
+* contributi dello Stato, delle regioni, di enti locali, di enti o di istituzioni pubblici, anche finalizzati al sostegno di specifici e documentati programmi realizzati nell'ambito dei fini statutari;
+* contributi dell'Unione Europea e di organismi internazionali;
+* entrate derivanti da prestazioni di servizi convenzionati;
+* proventi delle cessioni di beni e servizi agli associati e a terzi, anche attraverso lo svolgimento di attività economiche di natura commerciale, artigianale o agricola, svolte in maniera ausiliaria e sussidiaria e comunque finalizzate al raggiungimento degli obiettivi istituzionali;
+* erogazioni liberali degli associati e dei terzi;
+* entrate derivanti da iniziative promozionali finalizzate al proprio finanziamento, quali feste e sottoscrizioni anche a premi;
+* altre entrate compatibili con le finalità sociali dell'associazionismo di promozione sociale.
 
 In nessun caso i proventi derivanti dallo svolgimento delle attività dell'Associazione  possono essere divisi fra i soci, neanche in forme indirette.
 
@@ -73,7 +73,7 @@ L'esercizio finanziario decorre dall'1 gennaio al 31 dicembre di ogni anno. Il b
 Gli avanzi di gestione devono essere impiegati per la realizzazione delle attività istituzionali statutariamente previste e di quelle ad esse direttamente connesse o accessorie.
 
 ## Art. 8 - Organi dell'associazione
-	
+
 Organi dell'associazione sono:
 * l'Assemblea;
 * il Consiglio;
@@ -112,7 +112,7 @@ La convocazione deve avvenire con ogni forma di pubblicità ritenuta idonea dal 
 
 Il Consiglio è composto da membri eletti dall’Assemblea fra i Tesserati che abbiano compiuto il diciottesimo anno di età; l’Assemblea stabilisce il numero dei componenti del Consiglio di Amministrazione prima di procedere all’elezione degli stessi.
 
-I membri del Consiglio durano in carica tre anni e possono essere confermati. 
+I membri del Consiglio durano in carica tre anni e possono essere confermati.
 
 Nei casi di decesso, dimissioni, permanente impedimento, decadenza di un consigliere, questi sarà tempestivamente sostituito con il primo dei non eletti, che resterà in carica fino alla scadenza naturale del consiglio.
 
@@ -164,7 +164,7 @@ Salvo che non sia diversamente previsto da vigenti disposizioni di legge o dal p
 
 ## Art. 15 - Elezione del Presidente e Vice Presidente
 
-Il Presidente ed il Vice Presidente durano in carica tre anni e possono essere confermati. 
+Il Presidente ed il Vice Presidente durano in carica tre anni e possono essere confermati.
 
 Nei casi di decesso, dimissioni, decadenza, permanente impedimento del Presidente, il Consiglio, previa tempestiva sostituzione ai sensi del precedente articolo 11, 3° comma, è convocato dal Vice Presidente al fine di eleggere, nei modi indicati dal primo comma del presente articolo, un nuovo Presidente, che rimarrà in carica fino alla scadenza naturale del Consiglio.
 
@@ -192,13 +192,13 @@ Il Consiglio ha potere di attribuire gli incarichi di segretario e tesoriere a u
 
 I soci con diritto di voto dell'Associazione sono i Tesserati legittimati ai sensi dell’articolo 2 del Codice Civile che fissa la maggiore età al compimento del diciottesimo anno.
 
-Per l'acquisizione della qualità di socio si applicano le disposizioni sull'adesione e sul diniego e revoca dell'adesione previste dai successivi articoli 19 e 20. 
+Per l'acquisizione della qualità di socio si applicano le disposizioni sull'adesione e sul diniego e revoca dell'adesione previste dai successivi articoli 19 e 20.
 
 A tutti i soci sono riconosciuti identici diritti e devono ottemperare ai medesimi obblighi. In particolare, i soci maggiorenni hanno diritto di voto per l’approvazione delle modificazioni dello Statuto e dei Regolamenti, per l’approvazione del bilancio o rendiconto economico e finanziario e delle attività, per l’elezione degli organi direttivi.
 
 Ogni socio ha diritto a un voto e può essere portatore di una sola delega.
 
-È esclusa la temporaneità della partecipazione alla vita associativa e la trasmissibilità della qualifica di socio. 
+È esclusa la temporaneità della partecipazione alla vita associativa e la trasmissibilità della qualifica di socio.
 
 ## Art. 19 - Adesione dei soci
 
@@ -239,5 +239,3 @@ In ogni caso, i beni dell'Associazione non possono essere devoluti ai Soci, agli
 ## Art. 23 - Rinvio a disposizioni vigenti
 
 Per tutto quanto non contemplato nel presente Statuto, si applicano, in quanto possibile, le disposizioni legislative vigenti.
-
-
